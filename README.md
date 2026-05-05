@@ -1,0 +1,75 @@
+# 👋 Olá, eu sou o Kauã Sousa
+
+💻 Desenvolvedor Backend
+🚀 Focado em criar sistemas web completos
+📚 Atualmente desenvolvendo um sistema de simulados estilo ENEM
+
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de informática com foco em desenvolvimento backend utilizando Java e MySQL.
+Gosto de construir sistemas completos, desde a lógica até a interface, sempre buscando evoluir para um nível profissional.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🎯 Sistema de Simulados ENEM (em desenvolvimento)
+
+Sistema web completo para estudantes realizarem simulados com questões do ENEM.
+
+🔹 Funcionalidades:
+
+* Login e cadastro de usuários
+* Simulados com tempo real
+* Correção automática
+* Sistema de notas e desempenho
+
+🔹 Tecnologias:
+
+* Java + MySQL
+* HTML, CSS, JavaScript
+
+---
+
+## 📌 Outros Projetos
+
+🔹 Sistema de Login com autenticação
+🔹 Cardápio Digital
+🔹 Portfólio Web
+
+---
+
+## 📊 Estatísticas
+
+![Kaua GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua-Sousa21\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Sousa21\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 [kaua.silva274@aluno.ce.gov.br](mailto:kaua.silva274@aluno.ce.gov.br)
+🌐 https://kaua-sousa21.github.io/Portifolio/
+
+---
+
+## 💡 Objetivo
+
+Busco minha primeira oportunidade na área de desenvolvimento para aplicar meus conhecimentos e evoluir como programador.
+
+---
+
+⭐ Sempre buscando evoluir e construir projetos cada vez melhores!
