@@ -66,12 +66,6 @@ Sistema web completo para estudantes realizarem simulados com questões do ENEM.
 
 ---
 
-## 📊 Estatísticas
-
-![Kaua GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua-Sousa21\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Sousa21\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 📫 Contato
